@@ -1,6 +1,5 @@
-Brad Ofrim					 
-Mark Griffith 	
-Jordan Lane	
+# Tronduino
+Creators: Brad Ofrim, Mark Griffith, and Jordan Lane	
 
 Notes:
 On the Start Menu, hold down the Joystick button for ~5 seconds for 1P mode
